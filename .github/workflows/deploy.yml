@@ -60,6 +60,7 @@ jobs:
               -v /mnt/efs:/mnt/efs \
               -e AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }} \
               -e AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }} \
+              -e AWS_SESSION_TOKEN=${{ secrets.AWS_SESSION_TOKEN }} \
               -e AWS_REGION=${{ secrets.AWS_REGION }} \
               -e AWS_S3_BUCKET=${{ secrets.AWS_S3_BUCKET }} \
               -e EFS_MOUNT_PATH=/mnt/efs \

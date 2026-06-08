@@ -189,7 +189,8 @@ guia-despacho/
 
 ## 📝 Autores
 
-- **Felipe Garrido** - Desarrollo e implementación
+- **Felipe Gennari** - Desarrollo e implementación
+- **Sebastian Cordova** - Desarrollo e implementación
 - **Equipo CDY2204** - Proyecto semana 3
 
 ---

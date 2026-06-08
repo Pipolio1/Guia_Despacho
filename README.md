@@ -1,1 +1,1 @@
-# Guia Despacho - Deploy Test
+# Guia Despacho - Docker Hub Ready

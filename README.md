@@ -1,1 +1,1 @@
-# Guia Despacho - Docker Hub Ready
+# Guia Despacho - AWS Credentials Fixed
